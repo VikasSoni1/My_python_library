@@ -7,3 +7,6 @@ This library will be deployed to pip and it will contain all the functions which
 
 
 Important Links:  https://medium.com/analytics-vidhya/how-to-create-a-python-library-7d5aea80cc3f
+
+
+To do : Detect and add a useful function.
